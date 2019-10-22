@@ -4,9 +4,6 @@
     <list default="true" id="5fb032bc-f2d6-475a-be21-2c684f125474" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/lec_1/hw/task_4/Task_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lec_1/hw/task_4/Task_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw/task_1/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw/task_1/Task_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw/task_2/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw/task_2/Task_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw/task_3/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw/task_3/Task_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hw/task_4/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw/task_4/Task_4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -60,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hw/task_4/Task_4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="238">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -77,16 +74,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/hw/task_1/task_1.java" />
         <option value="$PROJECT_DIR$/src/hw/task_1/task_2/Task_2.java" />
-        <option value="$PROJECT_DIR$/src/hw/task_4/Task_4.java" />
         <option value="$PROJECT_DIR$/src/hw/task_1/Task_1.java" />
         <option value="$PROJECT_DIR$/src/hw/task_2/Task_2.java" />
         <option value="$PROJECT_DIR$/src/hw/task_3/Task_3.java" />
+        <option value="$PROJECT_DIR$/src/hw/task_4/Task_4.java" />
       </list>
     </option>
   </component>
@@ -305,11 +307,18 @@
       <option name="project" value="LOCAL" />
       <updated>1571771138102</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="init commit">
+      <created>1571772271841</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571772271841</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
@@ -321,13 +330,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4977307" weight="0.32850242" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" weight="0.32850242" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -378,8 +387,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hw/task_4/Task_4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="238">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>
