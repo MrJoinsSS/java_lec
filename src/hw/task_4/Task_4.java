@@ -24,7 +24,7 @@ public class Task_4 {   // а kotlin лучше чем java
         if (c > 0){
             sum += c;
         }
-
+//qwertyu
         System.out.println(sum);
 
     }
