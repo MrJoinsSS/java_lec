@@ -6,9 +6,9 @@ public class Task_2 {
         int b = 3;
         int c = 4;
 
-        if(a + b > c){
-            if(b + c > a){
-                if(a + c > b){
+        if (a + b > c) {
+            if (b + c > a) {
+                if (a + c > b) {
                     System.out.println("This is triangle");
                 }
             }

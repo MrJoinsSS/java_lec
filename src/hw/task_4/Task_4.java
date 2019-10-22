@@ -15,42 +15,17 @@ public class Task_4 {   // а kotlin лучше чем java
         int sum = 0;
 
 
-//        if (a > 0){
-//            if (b > 0){
-//                if (c > 0){
-//                    System.out.println(a+b+c);
-//                } else System.out.println(a+b);
-//            } else if(c > 0){
-//                System.out.println(a+c);
-//            }
-//            System.out.println(a);
-//        } else if (b > 0){
-//
-//        } else System.out.println("Net polozhitelnyh");
-
-//        if (a > 0 && b > 0 && c > 0){
-//            System.out.println(a+b+c);
-//        } else if (a < 0 && b > 0 && c > 0){
-//            System.out.println(b+c);
-//        } else if (a > 0 && b < 0 && c > 0){
-//            System.out.println(a+c);
-//        } else if (a > 0 && b > 0 && c < 0){
-//            System.out.println(a+b);
-//        } else if (a < 0 && b > 0 && c > 0){
-//            System.out.println(b+c);
-//        } else if (a < 0 && b < 0 && c < 0){
-//            System.out.println("Net polozhitelnyh");
-//        }
-
         if (a > 0){
-            sum = a;
-        } else if (b > 0){
-            sum = b;
-        } else if (c > 0){
-            sum = c;
+            sum += a;
+        }
+        if (b > 0){
+            sum += b;
+        }
+        if (c > 0){
+            sum += c;
         }
 
-
+        System.out.println(sum);
 
     }
 }

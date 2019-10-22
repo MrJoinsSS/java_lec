@@ -18,7 +18,7 @@ public class Task_3 {
             in = in-2;
             System.out.println(in);
 
-        } else if(in == 0){
+        } else {
             in = 10;
             System.out.println(in);
         }
