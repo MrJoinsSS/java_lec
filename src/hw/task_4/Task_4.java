@@ -2,7 +2,7 @@ package hw.task_4;
 
 import java.util.Scanner;
 
-public class Task_4 {
+public class Task_4 {   // а kotlin лучше чем java
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
