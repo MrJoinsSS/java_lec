@@ -1,8 +1,8 @@
-package hw.task_4;
+package hw.task_5;
 
 import java.util.Scanner;
 
-public class Task_4 {   // а kotlin лучше чем java
+public class Task_5 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -13,19 +13,21 @@ public class Task_4 {   // а kotlin лучше чем java
         System.out.println("Vvedite 3-e chislo");
         int c = sc.nextInt();
         int poz = 0;
+        int neg = 0;
 
 
-        if (a > 0){
+        if (a > 0) {
             poz++;
-        }
-        if (b > 0){
+        } else neg++;
+        if (b > 0) {
             poz++;
-        }
-        if (c > 0){
+        } else neg++;
+        if (c > 0) {
             poz++;
-        }
+        } else neg++;
 
-        System.out.println(poz);
+        System.out.println("Pozitive: " + poz);
+        System.out.println("Negative: " + neg);
 
     }
 }
