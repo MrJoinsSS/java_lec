@@ -20,8 +20,6 @@ public class Task_7 {
             num++;
             if (num > 9) break;
 
-
-
         }
 
         for (int i = 0; i < jopes.length; i++) {
