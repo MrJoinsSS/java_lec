@@ -24,14 +24,22 @@ public class Taskdz_5 {
         for (int i = 0; i < firstArr.length; i++) {
             firstSum += firstArr[i];
         }
-        System.out.println(firstSum / (firstArr.length));
+        float firstSrednee= firstSum / firstArr.length;
+
 
         for (int i = 0; i < secondArr.length; i++) {
             secondSum += secondArr[i];
         }
-        System.out.println(secondSum / (secondArr.length));
-        if (firstSum >secondSum){
-            System.out.println("Первое ");
+        float secondSrednee= secondSum / secondArr.length;
+
+
+        if (firstSum >secondSum && firstSum != secondSum){
+            System.out.println( firstSrednee + " > " + secondSrednee);
+        } else {
+            System.out.println(firstSrednee + " < " + secondSrednee);
+        }
+        if (firstSrednee == secondSrednee){
+            System.out.println(firstSrednee + " = " + secondSrednee);
         }
     }
 }
