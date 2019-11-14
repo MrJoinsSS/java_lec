@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fb032bc-f2d6-475a-be21-2c684f125474" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hw_3/taskdz_10/Taskdz_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_3/taskdz_6/Taskdz_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_3/taskdz_7/Taskdz_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_3/taskdz_8/Taskdz_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_3/taskdz_9/Taskdz_9.java" afterDir="false" />
+    <list default="true" id="5fb032bc-f2d6-475a-be21-2c684f125474" name="Default Changelist" comment="task_4 - last task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_3/taskdz_5/Taskdz_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_3/taskdz_5/Taskdz_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_3/taskdz_11/Taskdz_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_3/taskdz_11/Taskdz_11.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Taskdz_10">
+  <component name="RunManager" selected="Application.Taskdz_11">
     <configuration name="Taskdz_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw_3.taskdz_10.Taskdz_10" />
       <module name="lec_1" />
@@ -68,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taskdz_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw_3.taskdz_6.Taskdz_6" />
+    <configuration name="Taskdz_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_3.taskdz_11.Taskdz_11" />
       <module name="lec_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw_3.taskdz_6.*" />
+          <option name="PATTERN" value="hw_3.taskdz_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,19 +116,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Taskdz_6" />
       <item itemvalue="Application.Taskdz_7" />
       <item itemvalue="Application.Taskdz_8" />
       <item itemvalue="Application.Taskdz_9" />
       <item itemvalue="Application.Taskdz_10" />
+      <item itemvalue="Application.Taskdz_11" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Taskdz_11" />
         <item itemvalue="Application.Taskdz_10" />
         <item itemvalue="Application.Taskdz_8" />
         <item itemvalue="Application.Taskdz_9" />
         <item itemvalue="Application.Taskdz_7" />
-        <item itemvalue="Application.Taskdz_6" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573067966807</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="task_4 - last task">
+      <created>1573766592404</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1573766592404</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
