@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fb032bc-f2d6-475a-be21-2c684f125474" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Serega_Polhutenko.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/hw_4/task_1/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_4/task_2/Task_2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/hw_4/task_3/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_5/task_1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_5/task_1/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_5/task_2/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_5/task_2/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_6/task_1/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_6/task_1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_6/task_1/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_6/task_1/Kia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_6/task_1/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_6/task_2/Auto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_3/taskdz_11/Taskdz_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_3/taskdz_11/Taskdz_11.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,25 +39,31 @@
   </component>
   <component name="ProjectId" id="1Sz4ajKfLDITDENjrfGhS9yjLbB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Task_2 (1)">
+  <component name="RunManager" selected="Application.CarMain">
+    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_6.task_1.CarMain" />
+      <module name="lec_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_6.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw_5.task_1.Task_1" />
       <module name="lec_1" />
@@ -96,25 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taskdz_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw_3.taskdz_10.Taskdz_10" />
+    <configuration name="Task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_5.task_3.Task_3" />
       <module name="lec_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw_3.taskdz_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Taskdz_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw_3.taskdz_11.Taskdz_11" />
-      <module name="lec_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw_3.taskdz_11.*" />
+          <option name="PATTERN" value="hw_5.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,21 +117,33 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Taskdz_10" />
-      <item itemvalue="Application.Taskdz_11" />
-      <item itemvalue="Application.Task_2" />
+      <item itemvalue="Application.CarMain" />
       <item itemvalue="Application.Task_1" />
       <item itemvalue="Application.Task_2 (1)" />
+      <item itemvalue="Application.Task_2" />
+      <item itemvalue="Application.Task_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarMain" />
+        <item itemvalue="Application.Task_3" />
         <item itemvalue="Application.Task_2 (1)" />
         <item itemvalue="Application.Task_1" />
         <item itemvalue="Application.Task_2" />
-        <item itemvalue="Application.Taskdz_11" />
-        <item itemvalue="Application.Taskdz_10" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -276,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573769905610</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="task_4 - last task">
+      <created>1574982673607</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1574982673607</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,6 +309,28 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="task_4 - last task" />
     <option name="LAST_COMMIT_MESSAGE" value="task_4 - last task" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="146" y="87" key="#com.intellij.ide.util.MemberChooser" timestamp="1576100637449">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="146" y="87" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1576100637449" />
+    <state width="702" height="186" key="GridCell.Tab.0.bottom" timestamp="1576102993335">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="702" height="186" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576102993335" />
+    <state width="702" height="186" key="GridCell.Tab.0.center" timestamp="1576102993335">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="702" height="186" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576102993335" />
+    <state width="702" height="186" key="GridCell.Tab.0.left" timestamp="1576102993335">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="702" height="186" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576102993335" />
+    <state width="702" height="186" key="GridCell.Tab.0.right" timestamp="1576102993335">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="702" height="186" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576102993335" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
