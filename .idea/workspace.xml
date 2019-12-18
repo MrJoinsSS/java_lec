@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fb032bc-f2d6-475a-be21-2c684f125474" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Serega_Polhutenko.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_4/task_1/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_4/task_3/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_6/task_1/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_6/task_1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_6/task_1/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_6/task_1/Kia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_6/task_1/Toyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_6/task_2/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_6/task_2/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_6/task_2/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_6/task_2/Auto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -289,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574982673607</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="task_4 - last task">
+      <created>1576699989443</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1576699989443</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,10 +311,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="task_4 - last task" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="146" y="87" key="#com.intellij.ide.util.MemberChooser" timestamp="1576100637449">
+    <state x="146" y="87" key="#com.intellij.ide.util.MemberChooser" timestamp="1576700797854">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="146" y="87" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1576100637449" />
+    <state x="146" y="87" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1576700797854" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1576699987923">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1576699987923" />
     <state width="702" height="186" key="GridCell.Tab.0.bottom" timestamp="1576102993335">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -331,6 +335,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="702" height="186" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576102993335" />
+    <state x="275" y="91" key="Vcs.Push.Dialog.v2" timestamp="1576699994515">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="91" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1576699994515" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1576700517161">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1576700517161" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
